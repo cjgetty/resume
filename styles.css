@@ -38,7 +38,7 @@ a:hover {
 }
 
 li {
-  font-weight: 300;
+  font-weight: 300 !important;
 }
 
 .blue-link {
