@@ -161,7 +161,7 @@ footer h4 {
 
 }
 
-@media (min-width: 820px) {
+@media (min-width: 645px) {
 
   .container {
     width: 820px;
