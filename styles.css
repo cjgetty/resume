@@ -81,6 +81,13 @@ h3 {
   font-style: italic;
 }
 
+.small {
+  color: #fff;
+  opacity: 0.50;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
 h4 {
   color: #3F3F3F;
   font-weight: 300;
@@ -119,12 +126,6 @@ footer h4 {
   color: #EEE;
 }
 
-.small {
-  color: #fff;
-  opacity: 0.50;
-  font-size: 12px;
-  text-transform: uppercase;
-}
 
 @media (min-width: 645px) {
 
