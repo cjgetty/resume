@@ -119,6 +119,11 @@ footer h4 {
   color: #EEE;
 }
 
+footer h5 {
+  color: #fff;
+  opacity: 0.50;
+}
+
 @media (min-width: 645px) {
 
   body, h1, h2, h3, h4 {
