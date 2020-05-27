@@ -37,6 +37,10 @@ a:hover {
   opacity: 0.50;
 }
 
+li {
+  font-weight: 300;
+}
+
 .blue-link {
   color: #fff;
 }
